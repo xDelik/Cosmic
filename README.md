@@ -26,28 +26,28 @@ As the main server and client source of the Cosmic project are private, direct c
 ## Contact
 For any inquiries or support requests, please contact us at [cosmicv2service@gmail.com].
 
+---
 
 ## Acknowledgments
 
-**Heartfelt Thanks to Our Cosmic Project Team**
+**Gratitude to Our Cosmic Project Contributors**
 
-We stand on the shoulders of giants here at the Cosmic project, and it's only fair we shine a light on those who have been instrumental in turning our dreams into reality.
+The success of the Cosmic project is a testament to the collaborative effort and dedication of many talented individuals. We extend our heartfelt thanks to each person who has contributed to this journey.
 
-**In the Limelight:**
+**Special Thanks:**
 
--   **09** - The coding wizard whose keystrokes bring life to our ideas.
--   **xDelik** - A developer extraordinaire, turning complex problems into elegant solutions.
--   **Tidan** - Master developer, blending skill with unmatched dedication.
--   **Yamano** - Our Spriter, capturing imagination in every pixel.
--   **Smartfella** - A Spriter with an eye for detail and a heart for artistry.
--   **Vale** - Creative genius behind our sprites, making the ordinary extraordinary.
--   **Piorunixst** - The Cartographer of our digital world, crafting maps that tell their own stories.
+- **09** – For exceptional development skills and technical expertise.
+- **xDelik** – Contributing unparalleled development acumen.
+- **tidan** – Providing invaluable development contributions.
+- **Yamano** – Bringing creative vision to our sprite designs.
+- **Smartfella** – Crafting detailed and engaging sprites.
+- **Vale** – Adding artistic flair to our sprites.
+- **Piorunixst** – Masterfully creating the maps that define our digital world.
 
-**Applause for our Valuable Supporters:**
+**Additional Thanks:**
 
--   **Slendergo** - Your developmental insights have been a beacon in our journey.
--   **Penguin** - As our Moderation Manager and Balancer, you've been the equilibrium in our chaos.
+- **Slendergo** – For significant assistance in development.
+- **Penguin** – For expert moderation management and balancing.
 
-And to the countless others who have contributed, whether through ideas, feedback, or just moral support - you are the unsung heroes of this project. Your contributions have been a catalyst for our success.
-
+We also extend our gratitude to the many others involved in this project. Your support, whether through direct contribution or encouragement, has been crucial to our success. Thank you all for your dedication and commitment.
 ---
